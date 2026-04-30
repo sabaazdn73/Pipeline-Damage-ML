@@ -32,11 +32,13 @@ pipeline decisions.
 Python, NumPy, Scikit-learn, Matplotlib, Pandas
 
 ## Project Structure
+\`\`\`text
 pipeline-damage-ml/
 ├── src/
-│   ├── fem_model.py      # FEM simulation
-│   ├── dataset.py        # Data generation
-│   └── ml_models.py      # ML training & comparison
+│   ├── fem_model.py       # FEM simulation
+│   ├── dataset.py         # Data generation
+│   └── ml_models.py       # ML training & comparison
 ├── data/
 │   └── model_comparison.png
 └── README.md
+\`\`\`
